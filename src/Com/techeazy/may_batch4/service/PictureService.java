@@ -8,6 +8,7 @@ public class PictureService {
 
 	public void save(Picture picture) {
 		// TODO Auto-generated method stub
+		System.out.println("Test");
 		
 	}
 
