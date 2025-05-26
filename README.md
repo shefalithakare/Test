@@ -1,6 +1,6 @@
 # RealReview Project
 # Features
-User Authentication (Signup/Login with Email, Google, etc.)
+@User Authentication (Signup/Login with Email, Google, etc.)
 Property Listings (Add, edit, and browse properties)
 Reviews & Ratings (Users can leave reviews with images)
 Favorites System (Save favorite properties)
